@@ -21,22 +21,6 @@
 - User can login/register themselves on https://sabka-bazaar-express.herokuapp.com to use app.
 - User can browse products through various categories Bakery, Cakes, Dairy, Baby, Beauty, Hygiene,  Beverages, Fruit n Vegetables.
 
-## Local Installation
-
-App requires [Node.js](https://nodejs.org/), [NPM](https://www.npmjs.com/) modules.
-
-Install the dependencies and devDependencies and run below commands.
-
-```sh
-cd shopping-cart
-npm i
-npm run dev-build
-npm run server-dev
-```
-
-App will run on http://localhost:8000
-
-
 ## You can look at below URL to explore the app in production.
 
 ```sh
